@@ -1,7 +1,7 @@
 <repomd xmlns="http://linux.duke.edu/metadata/repo" xmlns:rpm="http://linux.duke.edu/metadata/rpm">
 <revision></revision>
 <data type="primary">
-<location href="repodata/repo.xml"/>
+<location href="https://dl.fedoraproject.org/pub/epel/7/x86_64/repodata/b314e045d192c5f5cca0f7985a264a4678f369db3bfc35bbd29c6864ff4fd298-primary.xml.gz"/>"/>
 <size>410</size>
 <open-size>9605</open-size>
 </data>
