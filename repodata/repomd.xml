@@ -1,4 +1,4 @@
-1712278165 b314e045d192c5f5cca0f7985a264a4678f369db3bfc35bbd29c6864ff4fd298 f81483be3337eb16934db1c6d32109571c609fb3fd34fda511c81cc3787e6ded 
+1712278165 b314e045d192c5f5cca0f7985a264a4678f369db3bfc35bbd29c6864ff4fd298 f81483be3337eb16934db1c6d32109571c609fb3fd34fda511c81cc3787e6ded
 This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <repomd xmlns="http://linux.duke.edu/metadata/repo" xmlns:rpm="http://linux.duke.edu/metadata/rpm">
 <revision>1712278165</revision>
@@ -21,4 +21,4 @@ This XML file does not appear to have any style information associated with it. 
 ...
 </data>
 ...
-</repomd>              
+</repomd>
